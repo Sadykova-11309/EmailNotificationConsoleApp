@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EmailNotificationConsoleApp/EmailNotificationConsoleApp.csproj" />
+  <Project Path="EmailNotificationLibrary/EmailNotificationLibrary.csproj" />
+</Solution>
