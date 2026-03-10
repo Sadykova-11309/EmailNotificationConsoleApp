@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace EmailNotificationLibrary
 {
+    /// <summary>
+    /// A simple data model class representing a user.
+    /// </summary>
+  
     public class User
     {
         public string Email { get; set; }
